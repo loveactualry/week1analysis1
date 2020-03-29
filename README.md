@@ -44,7 +44,15 @@
     - 데이터 전처리 끝, EDA 진행 중. 시계열 분석 정도로 마무리 하면 될듯.(prophet 사용 금지, 판다스로만)
     
 2week : 4.01 ~ 4.08 - KB 스미싱 문자 - classifcation
+
+
 3week : 4.09 ~ 4.16 - 미세먼지 분석 + API - prediction
+
+
 4week : 4.17 ~ 4.24 - Hotel_reservation - classification
+
+
 5week : 4.25 ~ 5.02 - Landing Club data - classification + Deep?
+
+
 6week : 5.03 ~ 5.10 -        - crawaling + visualiztion 토픽으로..
