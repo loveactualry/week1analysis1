@@ -1,0 +1,49 @@
+목적 : 여러 환경에 우분투를 반복적으로 설치해서 정리 위함.
+오늘도 우분투 다시 깔고 환경 설정 다시 하는건 안 비밀....
+
+설치 프로그램 : 아나콘다, 데이터 분석 관련 패키지, 폰트!
+
+시스템 업데이트
+sudo apt-get update -y && sudo apt-get upgrade -y
+
+아나콘다 설치
+
+https://www.anaconda.com/distribution/
+
+버전에 맞는 링크 https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
+
+아나콘다 다운로드
+mkdir temp
+cd temp
+wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
+
+md5sum 확인(잘 다운 받아졌는지 확인 하기 위함 비교 한다는 개념)
+md5sum Anaconda3-5.0.1-Linux-x86_64.sh 
+
+아나콘다 설치
+bash는 실행 명령어
+bash Anaconda3-5.0.1-Linux-x86_64.sh 
+
+콘다 활성화
+source ~/.bashrc 
+
+리스트 확인
+conda list
+
+만약 conda list 가 실행되지 않는다면!!!!!!!
+export PATH=~/anaconda3/bin:$PATH
+
+
+주피터 랩 설치(테마나 코드 리뷰 등이 편하다.
+pip install jupyter lab
+
+R 설치
+conda install r-irkernel
+
+글꼴 설치
+datascienceschool/pinkwink blog
+셋업파일 없이 명령어 입력으로.
+
+
+
+
