@@ -66,13 +66,6 @@
     - 주제 찾으면서 왜 못봤지.. 요즘 놓치는게 너무 많다.
     - Robust covariance 논문. 파이썬으로 구현 - ML 수업 내용 적용해서.
 
-3week : 4.09 ~ 4.16 - 미세먼지 분석 + API - prediction
-
-
-4week : 4.17 ~ 4.24 - Hotel_reservation - classification
-
-
-5week : 4.25 ~ 5.02 - Landing Club data - classification + Deep?
-
-
-6week : 5.03 ~ 5.10 -        - crawaling + visualiztion 토픽으로..
+20200913 
+    - 밀알성가대 동영상 리스트 크롤링
+        * ref: https://jh-0323.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%B1%84%EB%84%90-%ED%81%AC%EB%A1%A4%EB%A7%81-csv%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0
